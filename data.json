@@ -1,0 +1,34 @@
+{
+    "songs": [
+          {
+            "name": "Dancing On My Own",
+            "singer": "Calum Scott",
+            "file": "Dancing On My Own.mp3"
+          },
+          {
+            "name": "One Call Away",
+            "singer": "Calum Scott",
+            "file": "One Call Away.mp3"
+          },
+          {
+            "name": "We Don't Talk Anymore",
+            "singer": "Calum Scott",
+            "file": "We Don't Talk Anymore.mp3"
+          },
+            {
+                "name": "Someone You Loved",
+                "singer": "Lewis Capaldi",
+                "file": "Someone You Loved.mp3"
+            },
+            {
+                "name": "Love Someone",
+                "singer": "Lukas Graham",
+                "file": "Love Someone.mp3"
+            },
+            {
+                "name": "Let Her Go",
+                "singer": "unknown",
+                "file": "Let Her Go.mp3"
+            }
+    ]
+  }
